@@ -71,3 +71,16 @@ int main()
 
     return 0;
 }
+
+//output 
+=====BRANCHING STATEMENTS====
+    Enter the first number:25
+    Enter the second number:18
+    -----MENU----
+    1.check positive,negativ or zero
+2.check even or odd
+3.find largest of two numbers
+4.check divisiblity by 5
+    enter your choice:3
+    ----result-----
+    25 is the largest number
