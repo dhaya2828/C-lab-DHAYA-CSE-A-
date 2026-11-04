@@ -62,7 +62,7 @@ int main()
     return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
 ===== BITWISE OPERATIONS =====
 
