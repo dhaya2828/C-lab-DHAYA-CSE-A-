@@ -45,7 +45,7 @@ int factorial(int n)
 
 
 
-OUTPUT:
+//OUTPUT:
 
 Enter a number: 5
 
