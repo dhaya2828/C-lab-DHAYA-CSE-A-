@@ -62,7 +62,7 @@ int main()
 
 
 
-OUTPUT:
+//OUTPUT:
 
 Enter the number of elements in 1D array: 5
 
