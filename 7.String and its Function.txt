@@ -31,7 +31,7 @@ int main()
     return 0;
 }
 
-OUTPUT:
+//OUTPUT:
 
 Enter the first string: Hello
 
